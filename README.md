@@ -12,46 +12,52 @@ Soy una persona autodidacta que busca el constante aprendizaje tanto de hardskil
 
 <div align="start"> 
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+      <img style="margin: 10px" width="80" height="80" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   </a>  
   <a href="https://www.w3schools.com/css/" width='150px' target="_blank">
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
+      <img style="margin: 10px" width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />
   </a>  
   <a href="https://www.javascript.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+      <img style="margin: 10px" width="80" height="80" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
   </a>  
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+    <img style="margin: 10px" width="80" height="80" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
   </a>  
   <a href="https://reactjs.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+      <img style="margin: 10px" width="80" height="80" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   </a>  
   <a href="https://redux.js.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+      <img style="margin: 10px" width="80" height="80" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
   </a>  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img width="80" height="80" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> 
+  </a> 
 </div>
 
 <a href="https://nodejs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+  <img style="margin: 10px" width="80" height="80" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </a>  
 <a href="https://expressjs.com/" target="_blank">
-  <img style="background:fff" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+  <img style="background:fff" width="80" height="80" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 </a>  
 <a href="https://github.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  <img style="margin: 10px" width="80" height="80" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </a>  
 <a href="https://www.postgresql.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+  <img style="margin: 10px"width="80" height="80"  src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 </a>  
 <a href="https://www.mongodb.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+  <img style="margin: 10px" width="80" height="80"src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 </a>  
-
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> 
 
 
 💬 ***¿Quieres conocer mas sobre mi?***
 
 📩Email : maca.b.rodriguez@gmail.com
 
-🔗Linkedin : <a href='https://www.linkedin.com/in/macarenabelenrodriguez/' target="_blank" ></a>
+🔗Linkedin : https://www.linkedin.com/in/macarenabelenrodriguez
+
 🔗Portfolio : https://portfoliomacarenarodriguez.netlify.app
